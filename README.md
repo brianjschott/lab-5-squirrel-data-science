@@ -12,3 +12,4 @@ Have open in another tab the [Data Science Handbook](https://jakevdp.github.io/P
 - Filter the spreadsheet by showing squirrels that quaa'd.
 - Filter the spreadsheet by only showing the lines of the spreadsheet that have anecdotes (excluding null rows)
 - Display the results by separate seasons ([use this to find a way to determine the seasons](https://en.wikipedia.org/wiki/Season#Four-season_reckoning)
+- Get the average height of all squirrels that were off the ground (you will have to first filter out the results from squirrels on the ground, then average the remaining series)
