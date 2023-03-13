@@ -11,3 +11,4 @@ Have open in another tab the [Data Science Handbook](https://jakevdp.github.io/P
 - Show the first 100 records by using explicit indexing
 - Filter the spreadsheet by showing squirrels that quaa'd.
 - Filter the spreadsheet by only showing the lines of the spreadsheet that have anecdotes (excluding null rows)
+- Display the results by separate seasons ([use this to find a way to determine the seasons](https://en.wikipedia.org/wiki/Season#Four-season_reckoning)
